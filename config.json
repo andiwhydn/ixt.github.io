@@ -1,7 +1,7 @@
 {
-  "title": "ixt",
+  "title": "Blog ixt",
   "subTitle": "Catatan dan tulisan pribadi",
-  "avatarUrl": "https://github.githubassets.com/favicons/favicon.svg",
+  "avatarUrl": "",
   "GMEEK_VERSION": "last",
   "gmUrl": "",
   "ignoreCss": [],
@@ -20,5 +20,5 @@
   "bottomText": "© 2024 ixt. Hak cipta dilindungi.",
   "showThemeToggle": true,
   "maxTopListNum": 5,
-  "head": "<style>a[href*='github.com'], a[href*='gmeek'], footer a { display: none !important; pointer-events: none !important; }</style>"
+  "head": "<style> a[href*='github.com'], a[href*='gmeek'], a[href*='Meekdai'] { display: none !important; } footer div:last-child a, .footer a { display: none !important; } </style>"
 }
