@@ -20,5 +20,5 @@
   "bottomText": "© 2024 ixt. Hak cipta dilindungi.",
   "showThemeToggle": true,
   "maxTopListNum": 5,
-  "head": "<style> a[href*='github.com'], a[href*='gmeek'], a[href*='Meekdai'] { display: none !important; } footer div:last-child a, .footer a { display: none !important; } </style>"
+  "head": "<style> a[href*='gmeek'] { display: none !important; } body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; } article { border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); transition: transform 0.2s; } article:hover { transform: translateY(-3px); } </style>"
 }
