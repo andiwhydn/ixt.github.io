@@ -1,0 +1,22 @@
+{
+  "title": "Blog ixt",
+  "subTitle": "Catatan dan tulisan saya",
+  "avatarUrl": "https://github.githubassets.com/favicons/favicon.svg",
+  "gmUrl": "https://github.com/andiwyhdn",
+  "ignoreCss": [],
+  "pageSize": 10,
+  "homeUrl": "https://ixt.my.id",
+  "startSite": "",
+  "filingNum": "",
+  "onePageListNum": 15,
+  "singlePage": [],
+  "commentLabelColor": "#006b75",
+  "yearColorList": ["#c9d1d9", "#c9d1d9"],
+  "i18n": "CN",
+  "themeMode": "manual",
+  "dayTheme": "light",
+  "nightTheme": "dark_dimmed",
+  "bottomText": "Blog ini dibuat dengan Gmeek.",
+  "showThemeToggle": true,
+  "maxTopListNum": 5
+}
