@@ -9,6 +9,15 @@ body {
 a { text-decoration: none; color: #0066cc; }
 a:hover { text-decoration: underline; }
 img { max-width: 100%; height: auto; border-radius: 4px; display: block; }
+figcaption {
+    margin-top: 0.8rem; /* Jarak antara gambar dan teks caption */
+    font-size: 0.9rem; /* Ukuran font lebih kecil dari teks artikel */
+    color: #666; /* Warna abu-abu agar tidak mendominasi */
+    font-style: italic; /* Teks miring khas caption */
+    line-height: 1.5;
+    text-align: center; /* Teks di tengah */
+    padding: 0 15px; /* Jarak aman di kiri-kanan untuk layar HP */
+}
 
 /* Container (Dibuat agak sempit agar enak dibaca) */
 .container {
